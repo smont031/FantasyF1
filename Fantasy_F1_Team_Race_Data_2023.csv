@@ -1,0 +1,221 @@
+Season,Round,Track,Team,Points,Cost
+2023,1,Bahrain,Red Bull Racing Honda RBPT,78,27.2
+2023,1,Bahrain,Aston Martin Aramco Mercedes,56,6.7
+2023,1,Bahrain,Ferrari,31,22.1
+2023,1,Bahrain,Mercedes,45,25.1
+2023,1,Bahrain,Alfa Romeo Ferrari,31,6.2
+2023,1,Bahrain,Alpine Renault,8,10.1
+2023,1,Bahrain,Williams Mercedes,25,5.1
+2023,1,Bahrain,AlphaTauri Honda RBPT,17,6.4
+2023,1,Bahrain,Haas Ferrari,12,5.3
+2023,1,Bahrain,McLaren Mercedes,-16,9.1
+2023,2,Saudi Arabia,Red Bull Racing Honda RBPT,95,27.3
+2023,2,Saudi Arabia,Aston Martin Aramco Mercedes,19,6.8
+2023,2,Saudi Arabia,Mercedes,44,25.1
+2023,2,Saudi Arabia,Ferrari,59,22.1
+2023,2,Saudi Arabia,Alpine Renault,28,10.0
+2023,2,Saudi Arabia,Haas Ferrari,13,5.3
+2023,2,Saudi Arabia,AlphaTauri Honda RBPT,15,6.3
+2023,2,Saudi Arabia,Alfa Romeo Ferrari,7,6.2
+2023,2,Saudi Arabia,McLaren Mercedes,14,9.0
+2023,2,Saudi Arabia,Williams Mercedes,-16,5.1
+2023,3,Australia,Red Bull Racing Honda RBPT,98,27.4
+2023,3,Australia,Mercedes,32,25.1
+2023,3,Australia,Aston Martin Aramco Mercedes,54,6.8
+2023,3,Australia,McLaren Mercedes,36,9.0
+2023,3,Australia,Haas Ferrari,18,5.2
+2023,3,Australia,Alfa Romeo Ferrari,26,6.1
+2023,3,Australia,AlphaTauri Honda RBPT,13,6.3
+2023,3,Australia,Ferrari,3,22.2
+2023,3,Australia,Alpine Renault,11,10.0
+2023,3,Australia,Williams Mercedes,-5,5.0
+2023,4,Azerbaijan,Red Bull Racing Honda RBPT,108,27.5
+2023,4,Azerbaijan,Ferrari,63,22.1
+2023,4,Azerbaijan,Aston Martin Aramco Mercedes,55,6.9
+2023,4,Azerbaijan,Mercedes,49,25.1
+2023,4,Azerbaijan,McLaren Mercedes,23,9.0
+2023,4,Azerbaijan,AlphaTauri Honda RBPT,-23,6.2
+2023,4,Azerbaijan,Williams Mercedes,5,4.9
+2023,4,Azerbaijan,Haas Ferrari,17,5.2
+2023,4,Azerbaijan,Alpine Renault,25,9.9
+2023,4,Azerbaijan,Alfa Romeo Ferrari,-10,6.1
+2023,5,Miami,Red Bull Racing Honda RBPT,97,27.6
+2023,5,Miami,Aston Martin Aramco Mercedes,42,7.0
+2023,5,Miami,Mercedes,57,25.1
+2023,5,Miami,Ferrari,56,22.2
+2023,5,Miami,Alpine Renault,28,9.9
+2023,5,Miami,Haas Ferrari,15,5.2
+2023,5,Miami,AlphaTauri Honda RBPT,17,6.1
+2023,5,Miami,Alfa Romeo Ferrari,8,6.0
+2023,5,Miami,Williams Mercedes,1,4.8
+2023,5,Miami,McLaren Mercedes,8,9.0
+2023,6,Monaco,Red Bull Racing Honda RBPT,63,27.7
+2023,6,Monaco,Aston Martin Aramco Mercedes,15,7.0
+2023,6,Monaco,Alpine Renault,42,9.9
+2023,6,Monaco,Mercedes,54,25.1
+2023,6,Monaco,Ferrari,37,22.2
+2023,6,Monaco,McLaren Mercedes,15,8.9
+2023,6,Monaco,Alfa Romeo Ferrari,22,5.9
+2023,6,Monaco,AlphaTauri Honda RBPT,1,6.1
+2023,6,Monaco,Williams Mercedes,1,4.7
+2023,6,Monaco,Haas Ferrari,7,5.1
+2023,7,Spain,Red Bull Racing Honda RBPT,96,27.8
+2023,7,Spain,Mercedes,65,25.2
+2023,7,Spain,Ferrari,38,22.2
+2023,7,Spain,Aston Martin Aramco Mercedes,40,7.0
+2023,7,Spain,Alpine Renault,33,10.0
+2023,7,Spain,Alfa Romeo Ferrari,19,5.9
+2023,7,Spain,AlphaTauri Honda RBPT,20,6.0
+2023,7,Spain,McLaren Mercedes,11,8.9
+2023,7,Spain,Haas Ferrari,17,5.0
+2023,7,Spain,Williams Mercedes,5,4.6
+2023,8,Canada,Red Bull Racing Honda RBPT,86,27.9
+2023,8,Canada,Aston Martin Aramco Mercedes,46,7.0
+2023,8,Canada,Mercedes,21,25.2
+2023,8,Canada,Ferrari,46,22.2
+2023,8,Canada,Williams Mercedes,-2,4.5
+2023,8,Canada,Alpine Renault,24,10.0
+2023,8,Canada,Alfa Romeo Ferrari,11,5.9
+2023,8,Canada,McLaren Mercedes,15,8.8
+2023,8,Canada,AlphaTauri Honda RBPT,6,6.0
+2023,8,Canada,Haas Ferrari,4,5.0
+2023,9,Austria,Red Bull Racing Honda RBPT,112,28.1
+2023,9,Austria,Ferrari,73,22.5
+2023,9,Austria,McLaren Mercedes,54,9.3
+2023,9,Austria,Aston Martin Aramco Mercedes,63,8.0
+2023,9,Austria,Mercedes,70,25.2
+2023,9,Austria,Alpine Renault,21,10.5
+2023,9,Austria,Williams Mercedes,35,4.5
+2023,9,Austria,Alfa Romeo Ferrari,16,5.9
+2023,9,Austria,AlphaTauri Honda RBPT,20,6.0
+2023,9,Austria,Haas Ferrari,14,5.0
+2023,10,Great Britain,Red Bull Racing Honda RBPT,77,28.2
+2023,10,Great Britain,McLaren Mercedes,68,9.8
+2023,10,Great Britain,Mercedes,53,25.2
+2023,10,Great Britain,Aston Martin Aramco Mercedes,22,8.5
+2023,10,Great Britain,Williams Mercedes,19,5.0
+2023,10,Great Britain,Ferrari,25,22.8
+2023,10,Great Britain,Alfa Romeo Ferrari,-5,5.9
+2023,10,Great Britain,Haas Ferrari,-18,5.0
+2023,10,Great Britain,AlphaTauri Honda RBPT,5,6.0
+2023,10,Great Britain,Alpine Renault,-16,10.5
+2023,11,Hungary,Red Bull Racing Honda RBPT,95,28.4
+2023,11,Hungary,McLaren Mercedes,62,10.8
+2023,11,Hungary,Mercedes,52,25.3
+2023,11,Hungary,Ferrari,32,22.9
+2023,11,Hungary,Aston Martin Aramco Mercedes,21,9.0
+2023,11,Hungary,Williams Mercedes,9,5.5
+2023,11,Hungary,Alfa Romeo Ferrari,6,5.9
+2023,11,Hungary,AlphaTauri Honda RBPT,8,6.0
+2023,11,Hungary,Haas Ferrari,10,4.9
+2023,11,Hungary,Alpine Renault,-35,10.4
+2023,12,Belgium,Red Bull Racing Honda RBPT,80,28.6
+2023,12,Belgium,Ferrari,38,23.0
+2023,12,Belgium,Mercedes,70,25.4
+2023,12,Belgium,Aston Martin Aramco Mercedes,24,9.5
+2023,12,Belgium,McLaren Mercedes,18,11.8
+2023,12,Belgium,Alpine Renault,43,10.3
+2023,12,Belgium,AlphaTauri Honda RBPT,18,6.0
+2023,12,Belgium,Alfa Romeo Ferrari,26,5.9
+2023,12,Belgium,Williams Mercedes,21,5.5
+2023,12,Belgium,Haas Ferrari,23,4.9
+2023,13,Netherlands,Red Bull Racing Honda RBPT,101,28.7
+2023,13,Netherlands,Aston Martin Aramco Mercedes,67,10.0
+2023,13,Netherlands,Alpine Renault,66,10.8
+2023,13,Netherlands,Ferrari,34,23.1
+2023,13,Netherlands,Mercedes,40,25.5
+2023,13,Netherlands,McLaren Mercedes,56,11.8
+2023,13,Netherlands,Williams Mercedes,9,6.0
+2023,13,Netherlands,Haas Ferrari,26,5.4
+2023,13,Netherlands,AlphaTauri Honda RBPT,40,6.0
+2023,13,Netherlands,Alfa Romeo Ferrari,4,6.4
+2023,14,Italy,Red Bull Racing Honda RBPT,81,28.8
+2023,14,Italy,Ferrari,67,23.2
+2023,14,Italy,Mercedes,44,25.5
+2023,14,Italy,Williams Mercedes,20,6.0
+2023,14,Italy,McLaren Mercedes,44,12.3
+2023,14,Italy,Aston Martin Aramco Mercedes,17,11.0
+2023,14,Italy,Alfa Romeo Ferrari,12,6.4
+2023,14,Italy,AlphaTauri Honda RBPT,-12,6.5
+2023,14,Italy,Alpine Renault,-16,11.3
+2023,14,Italy,Haas Ferrari,0,5.9
+2023,15,Singapore,Ferrari,70,23.5
+2023,15,Singapore,McLaren Mercedes,64,13.3
+2023,15,Singapore,Mercedes,47,25.6
+2023,15,Singapore,Red Bull Racing Honda RBPT,54,29.0
+2023,15,Singapore,Alpine Renault,13,11.2
+2023,15,Singapore,AlphaTauri Honda RBPT,-4,6.4
+2023,15,Singapore,Haas Ferrari,18,5.9
+2023,15,Singapore,Williams Mercedes,19,6.5
+2023,15,Singapore,Alfa Romeo Ferrari,-8,6.4
+2023,15,Singapore,Aston Martin Aramco Mercedes,4,11.5
+2023,16,Japan,Red Bull Racing Honda RBPT,46,29.1
+2023,16,Japan,McLaren Mercedes,66,14.3
+2023,16,Japan,Ferrari,65,23.8
+2023,16,Japan,Mercedes,44,25.7
+2023,16,Japan,Aston Martin Aramco Mercedes,7,11.5
+2023,16,Japan,Alpine Renault,20,11.2
+2023,16,Japan,AlphaTauri Honda RBPT,15,6.3
+2023,16,Japan,Alfa Romeo Ferrari,-10,6.3
+2023,16,Japan,Haas Ferrari,15,6.4
+2023,16,Japan,Williams Mercedes,-35,7.0
+2023,17,Qatar,Red Bull Racing Honda RBPT,64,29.2
+2023,17,Qatar,McLaren Mercedes,110,15.3
+2023,17,Qatar,Mercedes,53,25.8
+2023,17,Qatar,Ferrari,18,24.1
+2023,17,Qatar,Aston Martin Aramco Mercedes,47,11.5
+2023,17,Qatar,Alpine Renault,23,11.7
+2023,17,Qatar,Alfa Romeo Ferrari,39,6.2
+2023,17,Qatar,Williams Mercedes,-10,6.9
+2023,17,Qatar,Haas Ferrari,6,6.9
+2023,17,Qatar,AlphaTauri Honda RBPT,-4,6.8
+2023,18,United States,Red Bull Racing Honda RBPT,95,29.3
+2023,18,United States,Mercedes,21,25.9
+2023,18,United States,McLaren Mercedes,36,16.3
+2023,18,United States,Ferrari,25,24.2
+2023,18,United States,Alpine Renault,27,12.2
+2023,18,United States,Aston Martin Aramco Mercedes,0,12.0
+2023,18,United States,AlphaTauri Honda RBPT,34,6.7
+2023,18,United States,Williams Mercedes,29,6.8
+2023,18,United States,Haas Ferrari,30,6.9
+2023,18,United States,Alfa Romeo Ferrari,15,6.7
+2023,19,Mexico,Red Bull Racing Honda RBPT,45,29.4
+2023,19,Mexico,Mercedes,69,25.9
+2023,19,Mexico,Ferrari,63,24.3
+2023,19,Mexico,McLaren Mercedes,57,16.4
+2023,19,Mexico,AlphaTauri Honda RBPT,42,7.2
+2023,19,Mexico,Williams Mercedes,20,7.3
+2023,19,Mexico,Alpine Renault,21,12.7
+2023,19,Mexico,Haas Ferrari,-7,7.4
+2023,19,Mexico,Alfa Romeo Ferrari,14,6.7
+2023,19,Mexico,Aston Martin Aramco Mercedes,-7,12.0
+2023,20,Brazil,Red Bull Racing Honda RBPT,105,29.4
+2023,20,Brazil,McLaren Mercedes,65,16.7
+2023,20,Brazil,Aston Martin Aramco Mercedes,77,11.9
+2023,20,Brazil,Ferrari,28,24.6
+2023,20,Brazil,Alpine Renault,44,13.2
+2023,20,Brazil,Mercedes,24,26.0
+2023,20,Brazil,AlphaTauri Honda RBPT,31,7.7
+2023,20,Brazil,Williams Mercedes,2,7.8
+2023,20,Brazil,Haas Ferrari,-19,7.3
+2023,20,Brazil,Alfa Romeo Ferrari,-31,6.7
+2023,21,Las Vegas,Red Bull Racing Honda RBPT,84,29.6
+2023,21,Las Vegas,Ferrari,78,24.7
+2023,21,Las Vegas,Alpine Renault,46,13.7
+2023,21,Las Vegas,Aston Martin Aramco Mercedes,56,12.9
+2023,21,Las Vegas,Mercedes,45,26.0
+2023,21,Las Vegas,McLaren Mercedes,34,17.0
+2023,21,Las Vegas,Williams Mercedes,7,7.8
+2023,21,Las Vegas,Haas Ferrari,12,7.2
+2023,21,Las Vegas,AlphaTauri Honda RBPT,26,8.2
+2023,21,Las Vegas,Alfa Romeo Ferrari,12,6.6
+2023,22,Abu Dhabi,Red Bull Racing Honda RBPT,87,29.7
+2023,22,Abu Dhabi,Ferrari,48,25.0
+2023,22,Abu Dhabi,Mercedes,51,26.0
+2023,22,Abu Dhabi,McLaren Mercedes,59,17.1
+2023,22,Abu Dhabi,Aston Martin Aramco Mercedes,32,13.4
+2023,22,Abu Dhabi,AlphaTauri Honda RBPT,27,8.7
+2023,22,Abu Dhabi,Alpine Renault,11,14.2
+2023,22,Abu Dhabi,Williams Mercedes,12,7.8
+2023,22,Abu Dhabi,Haas Ferrari,2,7.2
+2023,22,Abu Dhabi,Alfa Romeo Ferrari,13,6.6
