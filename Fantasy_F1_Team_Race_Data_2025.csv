@@ -1,0 +1,242 @@
+Season,Round,Track,Team,Points,Cost,Cost Change
+2025,1,Australia,McLaren Mercedes,71,30.0,0.3
+2025,1,Australia,Red Bull Racing Honda RBPT,19,25.2,-0.1
+2025,1,Australia,Mercedes,67,22.7,0.3
+2025,1,Australia,Williams Mercedes,10,13.1,-0.2
+2025,1,Australia,Aston Martin Aramco Mercedes,1,8.5,-0.6
+2025,1,Australia,Kick Sauber Ferrari,3,6.2,-0.6
+2025,1,Australia,Ferrari,36,27.1,0.3
+2025,1,Australia,Alpine Renault,-14,9.5,-0.6
+2025,1,Australia,Racing Bulls Honda RBPT,-10,8.0,-0.6
+2025,1,Australia,Haas Ferrari,14,7.0,0.6
+2025,2,China,McLaren Mercedes,101,30.3,0.3
+2025,2,China,Mercedes,69,23.0,0.3
+2025,2,China,Red Bull Racing Honda RBPT,67,25.1,0.3
+2025,2,China,Haas Ferrari,47,7.6,0.6
+2025,2,China,Williams Mercedes,26,12.9,0.6
+2025,2,China,Aston Martin Aramco Mercedes,4,7.9,-0.6
+2025,2,China,Racing Bulls Honda RBPT,42,7.4,0.6
+2025,2,China,Alpine Renault,-6,8.9,-0.6
+2025,2,China,Kick Sauber Ferrari,12,5.6,0.6
+2025,2,China,Ferrari,-23,27.4,-0.3
+2025,3,Japan,Red Bull Racing Honda RBPT,46,25.4,0.3
+2025,3,Japan,McLaren Mercedes,71,30.6,0.3
+2025,3,Japan,Ferrari,56,27.1,-0.1
+2025,3,Japan,Mercedes,56,23.3,0.3
+2025,3,Japan,Racing Bulls Honda RBPT,14,8.0,0.6
+2025,3,Japan,Williams Mercedes,19,13.5,0.6
+2025,3,Japan,Haas Ferrari,10,8.2,0.6
+2025,3,Japan,Aston Martin Aramco Mercedes,9,7.3,-0.2
+2025,3,Japan,Alpine Renault,9,8.3,-0.6
+2025,3,Japan,Kick Sauber Ferrari,0,6.2,-0.2
+2025,4,Bahrain,McLaren Mercedes,92,30.9,0.3
+2025,4,Bahrain,Mercedes,60,23.6,0.3
+2025,4,Bahrain,Ferrari,73,27.0,0.3
+2025,4,Bahrain,Red Bull Racing Honda RBPT,46,25.7,0.3
+2025,4,Bahrain,Alpine Renault,22,7.7,0.2
+2025,4,Bahrain,Haas Ferrari,40,8.8,0.6
+2025,4,Bahrain,Williams Mercedes,13,14.1,0.6
+2025,4,Bahrain,Racing Bulls Honda RBPT,22,8.6,0.6
+2025,4,Bahrain,Aston Martin Aramco Mercedes,18,7.1,0.6
+2025,4,Bahrain,Kick Sauber Ferrari,-22,6.0,-0.6
+2025,5,Saudi Arabia,McLaren Mercedes,86,31.2,0.3
+2025,5,Saudi Arabia,Red Bull Racing Honda RBPT,21,26.0,0.3
+2025,5,Saudi Arabia,Ferrari,64,27.3,0.3
+2025,5,Saudi Arabia,Mercedes,46,23.9,0.3
+2025,5,Saudi Arabia,Williams Mercedes,27,14.7,0.6
+2025,5,Saudi Arabia,Racing Bulls Honda RBPT,18,9.2,0.6
+2025,5,Saudi Arabia,Aston Martin Aramco Mercedes,11,7.7,0.6
+2025,5,Saudi Arabia,Haas Ferrari,12,9.4,0.6
+2025,5,Saudi Arabia,Kick Sauber Ferrari,10,5.4,-0.6
+2025,5,Saudi Arabia,Alpine Renault,-6,7.9,0.2
+2025,6,Miami,McLaren Mercedes,118,31.5,0.3
+2025,6,Miami,Mercedes,51,24.2,0.3
+2025,6,Miami,Red Bull Racing Honda RBPT,60,26.3,0.3
+2025,6,Miami,Williams Mercedes,31,15.3,0.6
+2025,6,Miami,Ferrari,34,27.6,0.3
+2025,6,Miami,Racing Bulls Honda RBPT,-6,9.8,0.2
+2025,6,Miami,Haas Ferrari,8,10.0,0.6
+2025,6,Miami,Alpine Renault,10,8.1,0.2
+2025,6,Miami,Kick Sauber Ferrari,9,4.8,-0.3
+2025,6,Miami,Aston Martin Aramco Mercedes,13,8.3,0.6
+2025,7,Emilia Romagna,Red Bull Racing Honda RBPT,71,26.6,0.3
+2025,7,Emilia Romagna,McLaren Mercedes,82,31.8,0.3
+2025,7,Emilia Romagna,Ferrari,67,27.9,0.3
+2025,7,Emilia Romagna,Williams Mercedes,42,15.9,0.6
+2025,7,Emilia Romagna,Mercedes,6,24.5,0.3
+2025,7,Emilia Romagna,Racing Bulls Honda RBPT,24,10.0,0.6
+2025,7,Emilia Romagna,Aston Martin Aramco Mercedes,14,8.9,0.6
+2025,7,Emilia Romagna,Kick Sauber Ferrari,13,4.5,0.6
+2025,7,Emilia Romagna,Alpine Renault,10,8.3,-0.6
+2025,7,Emilia Romagna,Haas Ferrari,-13,10.6,-0.6
+2025,8,Monaco,McLaren Mercedes,83,32.1,0.3
+2025,8,Monaco,Ferrari,71,28.2,0.3
+2025,8,Monaco,Red Bull Racing Honda RBPT,23,26.9,0.3
+2025,8,Monaco,Racing Bulls Honda RBPT,31,10.6,0.6
+2025,8,Monaco,Haas Ferrari,25,10.0,-0.2
+2025,8,Monaco,Williams Mercedes,16,16.5,0.6
+2025,8,Monaco,Mercedes,9,24.8,-0.1
+2025,8,Monaco,Alpine Renault,-11,7.7,-0.6
+2025,8,Monaco,Kick Sauber Ferrari,7,5.1,0.6
+2025,8,Monaco,Aston Martin Aramco Mercedes,-4,9.5,-0.2
+2025,9,Spain,McLaren Mercedes,88,32.4,0.3
+2025,9,Spain,Ferrari,61,28.5,0.3
+2025,9,Spain,Mercedes,24,24.7,-0.3
+2025,9,Spain,Kick Sauber Ferrari,52,5.7,0.6
+2025,9,Spain,Racing Bulls Honda RBPT,35,11.2,0.6
+2025,9,Spain,Alpine Renault,31,7.1,0.6
+2025,9,Spain,Aston Martin Aramco Mercedes,1,9.3,-0.6
+2025,9,Spain,Red Bull Racing Honda RBPT,28,27.2,0.3
+2025,9,Spain,Williams Mercedes,-8,17.1,0.2
+2025,9,Spain,Haas Ferrari,6,9.8,-0.2
+2025,10,Canada,Mercedes,87,24.4,0.3
+2025,10,Canada,Red Bull Racing Honda RBPT,51,27.5,0.3
+2025,10,Canada,McLaren Mercedes,40,32.7,0.3
+2025,10,Canada,Ferrari,57,28.8,0.3
+2025,10,Canada,Aston Martin Aramco Mercedes,31,8.7,0.2
+2025,10,Canada,Kick Sauber Ferrari,26,6.3,0.6
+2025,10,Canada,Haas Ferrari,22,9.6,0.6
+2025,10,Canada,Williams Mercedes,4,17.3,-0.6
+2025,10,Canada,Alpine Renault,11,7.7,0.6
+2025,10,Canada,Racing Bulls Honda RBPT,-4,11.8,0.6
+2025,11,Austria,McLaren Mercedes,100,33.0,0.3
+2025,11,Austria,Ferrari,67,29.1,0.3
+2025,11,Austria,Mercedes,19,24.7,0.3
+2025,11,Austria,Racing Bulls Honda RBPT,34,12.4,0.6
+2025,11,Austria,Aston Martin Aramco Mercedes,24,8.9,0.6
+2025,11,Austria,Kick Sauber Ferrari,45,6.9,0.6
+2025,11,Austria,Haas Ferrari,37,10.2,0.6
+2025,11,Austria,Alpine Renault,17,8.3,0.6
+2025,11,Austria,Red Bull Racing Honda RBPT,1,27.8,0.1
+2025,11,Austria,Williams Mercedes,-36,16.7,-0.6
+2025,12,Great Britain,McLaren Mercedes,90,33.3,0.3
+2025,12,Great Britain,Kick Sauber Ferrari,14,7.5,0.6
+2025,12,Great Britain,Ferrari,41,29.4,0.3
+2025,12,Great Britain,Red Bull Racing Honda RBPT,41,27.9,0.1
+2025,12,Great Britain,Alpine Renault,5,8.9,0.6
+2025,12,Great Britain,Aston Martin Aramco Mercedes,33,9.5,0.6
+2025,12,Great Britain,Williams Mercedes,16,16.1,-0.6
+2025,12,Great Britain,Mercedes,7,25.0,0.3
+2025,12,Great Britain,Haas Ferrari,25,10.8,0.6
+2025,12,Great Britain,Racing Bulls Honda RBPT,-35,13.0,-0.6
+2025,13,Belgium,McLaren Mercedes,93,33.6,0.3
+2025,13,Belgium,Ferrari,70,29.7,0.3
+2025,13,Belgium,Red Bull Racing Honda RBPT,55,28.0,0.1
+2025,13,Belgium,Mercedes,50,25.3,0.1
+2025,13,Belgium,Williams Mercedes,27,15.5,-0.6
+2025,13,Belgium,Racing Bulls Honda RBPT,17,12.4,-0.6
+2025,13,Belgium,Kick Sauber Ferrari,24,8.1,0.6
+2025,13,Belgium,Alpine Renault,-13,9.5,-0.6
+2025,13,Belgium,Haas Ferrari,15,11.4,0.6
+2025,13,Belgium,Aston Martin Aramco Mercedes,20,10.1,0.6
+2025,14,Hungary,McLaren Mercedes,100,33.9,0.3
+2025,14,Hungary,Mercedes,54,25.4,0.3
+2025,14,Hungary,Ferrari,39,30.0,0.3
+2025,14,Hungary,Aston Martin Aramco Mercedes,45,10.7,0.6
+2025,14,Hungary,Kick Sauber Ferrari,35,8.7,0.6
+2025,14,Hungary,Racing Bulls Honda RBPT,29,11.8,-0.6
+2025,14,Hungary,Red Bull Racing Honda RBPT,39,28.1,0.3
+2025,14,Hungary,Williams Mercedes,24,14.9,0.6
+2025,14,Hungary,Haas Ferrari,-9,12.0,-0.2
+2025,14,Hungary,Alpine Renault,2,8.9,-0.6
+2025,15,Netherlands,McLaren Mercedes,52,34.2,0.3
+2025,15,Netherlands,Red Bull Racing Honda RBPT,47,28.4,0.3
+2025,15,Netherlands,Racing Bulls Honda RBPT,38,11.2,0.6
+2025,15,Netherlands,Mercedes,30,25.7,0.3
+2025,15,Netherlands,Williams Mercedes,35,15.5,0.6
+2025,15,Netherlands,Haas Ferrari,43,11.8,0.6
+2025,15,Netherlands,Aston Martin Aramco Mercedes,41,11.3,0.6
+2025,15,Netherlands,Alpine Renault,14,8.3,-0.6
+2025,15,Netherlands,Kick Sauber Ferrari,14,9.3,0.6
+2025,15,Netherlands,Ferrari,-4,30.3,0.1
+2025,16,Italy,Red Bull Racing Honda RBPT,56,28.7,0.3
+2025,16,Italy,McLaren Mercedes,97,34.5,0.3
+2025,16,Italy,Ferrari,67,30.4,0.1
+2025,16,Italy,Mercedes,37,26.0,0.3
+2025,16,Italy,Williams Mercedes,23,16.1,0.6
+2025,16,Italy,Kick Sauber Ferrari,-2,9.9,0.6
+2025,16,Italy,Racing Bulls Honda RBPT,27,11.8,0.6
+2025,16,Italy,Haas Ferrari,7,12.4,0.2
+2025,16,Italy,Alpine Renault,6,7.7,0.2
+2025,16,Italy,Aston Martin Aramco Mercedes,-11,11.9,0.6
+2025,17,Azerbaijan,Red Bull Racing Honda RBPT,85,29.0,0.3
+2025,17,Azerbaijan,Mercedes,67,26.3,0.3
+2025,17,Azerbaijan,Williams Mercedes,46,16.7,0.6
+2025,17,Azerbaijan,Racing Bulls Honda RBPT,41,12.4,0.6
+2025,17,Azerbaijan,McLaren Mercedes,6,34.8,0.3
+2025,17,Azerbaijan,Ferrari,28,30.5,0.1
+2025,17,Azerbaijan,Kick Sauber Ferrari,17,10.5,0.2
+2025,17,Azerbaijan,Haas Ferrari,13,12.6,0.6
+2025,17,Azerbaijan,Aston Martin Aramco Mercedes,-2,12.5,-0.2
+2025,17,Azerbaijan,Alpine Renault,7,7.9,0.2
+2025,18,Singapore,Mercedes,67,26.6,0.3
+2025,18,Singapore,Red Bull Racing Honda RBPT,51,29.3,0.3
+2025,18,Singapore,McLaren Mercedes,64,35.1,0.3
+2025,18,Singapore,Ferrari,48,30.6,0.3
+2025,18,Singapore,Aston Martin Aramco Mercedes,37,12.3,-0.2
+2025,18,Singapore,Haas Ferrari,15,13.2,-0.2
+2025,18,Singapore,Williams Mercedes,5,17.3,0.6
+2025,18,Singapore,Racing Bulls Honda RBPT,16,13.0,0.6
+2025,18,Singapore,Alpine Renault,6,8.1,-0.2
+2025,18,Singapore,Kick Sauber Ferrari,-4,10.7,-0.6
+2025,19,United States,Red Bull Racing Honda RBPT,92,29.6,0.3
+2025,19,United States,McLaren Mercedes,22,35.4,-0.1
+2025,19,United States,Ferrari,85,30.9,0.3
+2025,19,United States,Mercedes,61,26.9,0.3
+2025,19,United States,Kick Sauber Ferrari,25,10.1,0.6
+2025,19,United States,Haas Ferrari,13,13.0,0.2
+2025,19,United States,Aston Martin Aramco Mercedes,-12,12.1,-0.2
+2025,19,United States,Racing Bulls Honda RBPT,34,13.6,0.6
+2025,19,United States,Williams Mercedes,27,17.9,0.6
+2025,19,United States,Alpine Renault,18,7.9,0.6
+2025,20,Mexico,McLaren Mercedes,86,35.3,0.3
+2025,20,Mexico,Ferrari,58,31.2,0.3
+2025,20,Mexico,Red Bull Racing Honda RBPT,36,29.9,0.3
+2025,20,Mexico,Haas Ferrari,45,13.2,0.6
+2025,20,Mexico,McLaren Mercedes,86,35.3,0.3
+2025,20,Mexico,Mercedes,58,27.2,0.3
+2025,20,Mexico,Kick Sauber Ferrari,2,10.7,-0.2
+2025,20,Mexico,Williams Mercedes,29,18.5,0.1
+2025,20,Mexico,Racing Bulls Honda RBPT,-10,14.2,0.2
+2025,20,Mexico,Aston Martin Aramco Mercedes,2,11.9,-0.2
+2025,20,Mexico,Alpine Renault,14,8.5,0.6
+2025,21,Brazil,McLaren Mercedes,63,35.6,0.3
+2025,21,Brazil,Mercedes,91,27.5,0.3
+2025,21,Brazil,Red Bull Racing Honda RBPT,88,30.2,0.3
+2025,21,Brazil,Haas Ferrari,54,13.8,0.6
+2025,21,Brazil,Racing Bulls Honda RBPT,47,14.4,0.6
+2025,21,Brazil,Kick Sauber Ferrari,-9,10.5,-0.6
+2025,21,Brazil,Alpine Renault,12,9.1,0.6
+2025,21,Brazil,Williams Mercedes,42,18.6,0.3
+2025,21,Brazil,Aston Martin Aramco Mercedes,9,11.7,-0.6
+2025,21,Brazil,Ferrari,-3,31.5,0.3
+2025,22,Las Vegas,Red Bull Racing Honda RBPT,85,30.5,0.3
+2025,22,Las Vegas,Mercedes,77,27.8,0.3
+2025,22,Las Vegas,Ferrari,48,31.8,0.1
+2025,22,Las Vegas,Williams Mercedes,9,18.9,0.3
+2025,22,Las Vegas,Racing Bulls Honda RBPT,30,15.0,0.6
+2025,22,Las Vegas,Kick Sauber Ferrari,-8,9.9,-0.6
+2025,22,Las Vegas,Haas Ferrari,24,14.4,0.6
+2025,22,Las Vegas,Aston Martin Aramco Mercedes,-8,11.1,-0.6
+2025,22,Las Vegas,Alpine Renault,3,9.7,0.2
+2025,22,Las Vegas,McLaren Mercedes,-34,35.9,0.1
+2025,23,Qatar,Red Bull Racing Honda RBPT,67,30.8,0.3
+2025,23,Qatar,McLaren Mercedes,96,36.0,0.1
+2025,23,Qatar,Williams Mercedes,39,19.2,0.3
+2025,23,Qatar,Mercedes,57,28.1,0.3
+2025,23,Qatar,Aston Martin Aramco Mercedes,21,10.5,-0.2
+2025,23,Qatar,Ferrari,22,31.9,-0.1
+2025,23,Qatar,Racing Bulls Honda RBPT,22,15.6,0.6
+2025,23,Qatar,Kick Sauber Ferrari,4,9.3,-0.6
+2025,23,Qatar,Alpine Renault,14,9.9,0.2
+2025,23,Qatar,Haas Ferrari,-5,15.0,0.6
+2025,24,Abu Dhabi,Red Bull Racing Honda RBPT,52,31.1,0.3
+2025,24,Abu Dhabi,McLaren Mercedes,77,36.1,0.3
+2025,24,Abu Dhabi,Ferrari,83,31.8,0.3
+2025,24,Abu Dhabi,Mercedes,35,28.4,0.3
+2025,24,Abu Dhabi,Aston Martin Aramco Mercedes,47,10.3,0.6
+2025,24,Abu Dhabi,Haas Ferrari,34,15.6,0.2
+2025,24,Abu Dhabi,Kick Sauber Ferrari,40,8.7,0.6
+2025,24,Abu Dhabi,Williams Mercedes,24,19.5,0.3
+2025,24,Abu Dhabi,Racing Bulls Honda RBPT,6,16.2,0.2
+2025,24,Abu Dhabi,Alpine Renault,4,10.1,-0.2
