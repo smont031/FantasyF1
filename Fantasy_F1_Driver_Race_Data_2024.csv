@@ -243,7 +243,7 @@ Season,Round,Track,Driver,Team,Points,Cost,Cost Change
 2024,13,Hungary,Lewis Hamilton,Mercedes,26,22.8,0.3
 2024,13,Hungary,Charles Leclerc,Ferrari,20,23,0.3
 2024,13,Hungary,Max Verstappen,Red Bull Racing Honda RBPT,17,31,0.1
-2024,13,Hungary,Carlos Sainz,Ferrari,17,22.2,
+2024,13,Hungary,Carlos Sainz,Ferrari,17,22.2,0.3
 2024,13,Hungary,Sergio Perez,Red Bull Racing Honda RBPT,20,22.7,0.3
 2024,13,Hungary,George Russell,Mercedes,27,20.9,0.3
 2024,13,Hungary,Yuki Tsunoda,RB Honda RBPT,4,10.5,-0.1
@@ -477,4 +477,5 @@ Season,Round,Track,Driver,Team,Points,Cost,Cost Change
 2024,24,Abu Dhabi,Liam Lawson,RB Honda RBPT,-3,10.9,-0.2
 2024,24,Abu Dhabi,Valtteri Bottas,Kick Sauber Ferrari,-16,7.1,-0.2
 2024,24,Abu Dhabi,Franco Colapinto,Williams Mercedes,-20,7.4,-0.2
+
 2024,24,Abu Dhabi,Sergio Perez,Red Bull Racing Honda RBPT,-18,23.2,-0.5
