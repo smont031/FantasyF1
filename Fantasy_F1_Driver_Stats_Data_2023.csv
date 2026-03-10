@@ -1,4 +1,4 @@
-Driver,Abbreviation,No,Team,Country,Podiums,Points,Grands Prix Entered,World Championships,Highest Race Finish,Highest Grid Position,Date of Birth,Place of Birth
+Driver,Abbreviation,No,Team,Country,Podiums,Points,GP Entered,Championships,Highest Finish,Highest Start,Date of Birth,Place of Birth
 Max Verstappen,VER,1,Red Bull Racing,Netherlands,112,3023.5,209,4,1(x63),1,30/09/1997,"Hasselt, Belgium"
 Lando Norris,NOR,4,McLaren,United Kingdom,26,1007,128,0,1(x4),1,13/11/1999,"Bristol, England"
 Charles Leclerc,LEC,16,Ferrari,Monaco,43,1430,149,0,1(x8),1,16/10/1997,"Monte Carlo, Monaco"
@@ -23,3 +23,4 @@ Liam Lawson,LAW,30,RB,New Zealand,0,6,11,0,9(x3),5,11/02/2002,"Hastings, New Zea
 Valtteri Bottas,BOT,77,Kick Sauber,Finland,67,1797,246,0,1(x10),1,28/08/1989,"Nastola, Finland"
 Logan Sargeant,SAR,2,Williams,United States,0,1,36,0,10(x1),6,31/12/2000,"Fort Lauderdale, Florida"
 Jack Doohan,DOO,61,Alpine,Australia,0,0,1,0,15(x1),17,20/01/2003,"Gold Coast, Australia"
+
