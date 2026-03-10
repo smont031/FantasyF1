@@ -1,4 +1,4 @@
-Driver,Abbreviation,No,Team,Country,Podiums,Points,Grands Prix Entered,World Championships,Highest Race Finish,Highest Grid Position,Date of Birth,Place of Birth
+Driver,Abbreviation,No,Team,Country,Podiums,Points,GP Entered,Championships,Highest Finish,Highest Start,Date of Birth,Place of Birth
 Max Verstappen,VER,1,Red Bull Racing,Netherlands,77,2011.5,163,2,1(x35),1,30/09/1997,"Hasselt,Belgium"
 Charles Leclerc,LEC,16,Ferrari,Monaco,24,868,103,0,1(x5),1,16/10/1997,"Monte Carlo, Monaco"
 Sergio Perez,PER,11,Red Bull Racing,Mexico,26,1201,236,0,1(x4),1,26/01/1990,"Guadalajara, Mexico"
@@ -21,3 +21,4 @@ Alexander Albon,ALB,23,Williams,Thailand,2,201,59,0,3(x2),4,23/03/1996,"London, 
 Nicholas Latifi,LAT,6,Williams,Canada,0,9,61,0,7(x1),10,29/06/1995,"Montreal, Canada"
 Nyck De Vries,DEV,45,Williams,Netherlands,0,2,1,0,9(x1),8,06/02/1995,"Uitwellingerga, Netherlands"
 Nico Hulkenberg,HUL,27,Aston Martin,Germany,0,521,184,0,4(x3),1,19/08/1987,"Emmerich am Rhein, Germany"
+
