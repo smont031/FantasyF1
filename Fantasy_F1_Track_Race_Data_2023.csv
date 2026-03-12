@@ -1,23 +1,23 @@
-Track,Length,Turns,DRS Zones,Track Type
-Bahrain,5.412,15,3,Permanent
-Saudi Arabia,6.174,27,3,Street
-Australia,5.278,14,4,Street
-Azerbaijan,6.003,20,2,Street
-Miami,5.412,19,3,Street
-Monaco,3.337,19,1,Street
-Spain,4.657,14,2,Permanent
-Canada,4.361,14,3,Hybrid
-Austria,4.318,10,3,Permanent
-Great Britain,5.891,18,2,Permanent
-Hungary,4.381,14,2,Permanent
-Belgium,7.004,19,2,Permanent
-Netherlands,4.259,14,2,Permanent
-Italy,5.793,11,2,Permanent
-Singapore,4.94,19,3,Street
-Japan,5.807,18,1,Permanent
-Qatar,5.419,16,1,Permanent
-United States,5.513,20,2,Permanent
-Mexico,4.304,17,3,Permanent
-Brazil,4.309,15,2,Permanent
-Las Vegas,6.201,17,2,Street
-Abu Dhabi,5.281,16,2,Permanent
+Track,Length,Turns,DRS Zones,Track Type,Sprint
+Bahrain,5.412,15,3,Permanent,0
+Saudi Arabia,6.174,27,3,Street,0
+Australia,5.278,14,4,Street,0
+Azerbaijan,6.003,20,2,Street,1
+Miami,5.412,19,3,Street,0
+Monaco,3.337,19,1,Street,0
+Spain,4.657,14,2,Permanent,0
+Canada,4.361,14,3,Hybrid,0
+Austria,4.318,10,3,Permanent,1
+Great Britain,5.891,18,2,Permanent,0
+Hungary,4.381,14,2,Permanent,0
+Belgium,7.004,19,2,Permanent,1
+Netherlands,4.259,14,2,Permanent,0
+Italy,5.793,11,2,Permanent,0
+Singapore,4.94,19,3,Street,0
+Japan,5.807,18,1,Permanent,0
+Qatar,5.419,16,1,Permanent,1
+United States,5.513,20,2,Permanent,1
+Mexico,4.304,17,3,Permanent,0
+Brazil,4.309,15,2,Permanent,1
+Las Vegas,6.201,17,2,Street,0
+Abu Dhabi,5.281,16,2,Permanent,0
