@@ -1,23 +1,23 @@
-Track,Length,Turns,DRS Zones,Track Type,Sprint,Temp Min,Temp Max,Rain Probability
-Bahrain,5.412,15,3,Permanent,0,18,22,0.06
-Saudi Arabia,6.174,27,3,Street,0,21,31,0.01
-Australia,5.278,14,4,Street,0,12,21,0.19
-Azerbaijan,6.003,20,2,Street,1,12,19,0.1
-Miami,5.412,19,3,Street,0,22,29,0.25
-Monaco,3.337,19,1,Street,0,16,21,0.15
-Spain,4.657,14,2,Permanent,0,15,23,0.17
-Canada,4.361,14,3,Hybrid,0,15,23,0.38
-Austria,4.318,10,3,Permanent,1,12,22,0.45
-Great Britain,5.891,18,2,Permanent,0,12,20,0.24
-Hungary,4.381,14,2,Permanent,0,16,26,0.26
-Belgium,7.004,19,2,Permanent,1,13,20,0.34
-Netherlands,4.259,14,2,Permanent,0,15,19,0.31
-Italy,5.793,11,2,Permanent,0,17,26,0.26
-Singapore,4.94,19,3,Street,0,26,30,0.41
-Japan,5.807,18,1,Permanent,0,20,24,0.41
-Qatar,5.419,16,1,Permanent,1,26,36,0.01
-United States,5.513,20,2,Permanent,1,15,26,0.24
-Mexico,4.304,17,3,Permanent,0,10,22,0.21
-Brazil,4.309,15,2,Permanent,1,18,24,0.45
-Las Vegas,6.201,17,2,Street,0,8,18,0.05
-Abu Dhabi,5.281,16,2,Permanent,0,18,26,0.02
+Track,Length,Turns,DRS Zones,Track Type,Sprint,Temp Min,Temp Max,Rain Probability,Season
+Bahrain,5.412,15,3,Permanent,0,18,22,0.06,2023
+Saudi Arabia,6.174,27,3,Street,0,21,31,0.01,2023
+Australia,5.278,14,4,Street,0,12,21,0.19,2023
+Azerbaijan,6.003,20,2,Street,1,12,19,0.1,2023
+Miami,5.412,19,3,Street,0,22,29,0.25,2023
+Monaco,3.337,19,1,Street,0,16,21,0.15,2023
+Spain,4.657,14,2,Permanent,0,15,23,0.17,2023
+Canada,4.361,14,3,Hybrid,0,15,23,0.38,2023
+Austria,4.318,10,3,Permanent,1,12,22,0.45,2023
+Great Britain,5.891,18,2,Permanent,0,12,20,0.24,2023
+Hungary,4.381,14,2,Permanent,0,16,26,0.26,2023
+Belgium,7.004,19,2,Permanent,1,13,20,0.34,2023
+Netherlands,4.259,14,2,Permanent,0,15,19,0.31,2023
+Italy,5.793,11,2,Permanent,0,17,26,0.26,2023
+Singapore,4.94,19,3,Street,0,26,30,0.41,2023
+Japan,5.807,18,1,Permanent,0,20,24,0.41,2023
+Qatar,5.419,16,1,Permanent,1,26,36,0.01,2023
+United States,5.513,20,2,Permanent,1,15,26,0.24,2023
+Mexico,4.304,17,3,Permanent,0,10,22,0.21,2023
+Brazil,4.309,15,2,Permanent,1,18,24,0.45,2023
+Las Vegas,6.201,17,2,Street,0,8,18,0.05,2023
+Abu Dhabi,5.281,16,2,Permanent,0,18,26,0.02,2023
