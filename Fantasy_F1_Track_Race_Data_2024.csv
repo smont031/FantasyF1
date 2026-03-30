@@ -1,25 +1,25 @@
-Track,Length,Turns,DRS Zones,Track Type,Sprint,Temp Min,Temp Max,Rain Probability
-Bahrain,5.412,15,3,Permanent,0,17,23,0.05
-Saudi Arabia,6.174,27,3,Street,0,20,30,0.01
-Australia,5.278,14,4,Street,0,13,22,0.17
-Japan,5.807,18,1,Permanent,0,9,15,0.33
-China,5.451,16,2,Permanent,1,13,21,0.29
-Miami,5.412,19,3,Street,1,22,29,0.25
-Emilia Romagna,4.909,19,1,Permanent,0,13,23,0.24
-Monaco,3.337,19,1,Street,0,16,21,0.15
-Canada,4.361,14,3,Hybrid,0,14,22,0.37
-Spain,4.657,14,2,Permanent,0,18,26,0.13
-Austria,4.318,10,3,Permanent,1,12,22,0.45
-Great Britain,5.891,18,2,Permanent,0,12,20,0.25
-Hungary,4.381,14,2,Permanent,0,16,26,0.25
-Belgium,7.004,19,2,Permanent,0,13,20,0.34
-Netherlands,4.259,14,2,Permanent,0,15,19,0.3
-Italy,5.793,11,2,Permanent,0,17,26,0.26
-Azerbaijan,6.003,20,2,Street,0,19,26,0.11
-Singapore,4.94,19,4,Street,0,26,30,0.41
-United States,5.513,20,2,Permanent,1,15,26,0.24
-Mexico,4.304,17,3,Permanent,0,10,22,0.22
-Brazil,4.309,15,2,Permanent,1,18,24,0.45
-Las Vegas,6.201,17,2,Street,0,7,17,0.05
-Qatar,5.419,16,1,Permanent,1,18,26,0.05
-Abu Dhabi,5.281,16,2,Permanent,0,17,26,0.03
+Track,Length,Turns,DRS Zones,Track Type,Sprint,Temp Min,Temp Max,Rain Probability,Season
+Bahrain,5.412,15,3,Permanent,0,17,23,0.05,2024
+Saudi Arabia,6.174,27,3,Street,0,20,30,0.01,2024
+Australia,5.278,14,4,Street,0,13,22,0.17,2024
+Japan,5.807,18,1,Permanent,0,9,15,0.33,2024
+China,5.451,16,2,Permanent,1,13,21,0.29,2024
+Miami,5.412,19,3,Street,1,22,29,0.25,2024
+Emilia Romagna,4.909,19,1,Permanent,0,13,23,0.24,2024
+Monaco,3.337,19,1,Street,0,16,21,0.15,2024
+Canada,4.361,14,3,Hybrid,0,14,22,0.37,2024
+Spain,4.657,14,2,Permanent,0,18,26,0.13,2024
+Austria,4.318,10,3,Permanent,1,12,22,0.45,2024
+Great Britain,5.891,18,2,Permanent,0,12,20,0.25,2024
+Hungary,4.381,14,2,Permanent,0,16,26,0.25,2024
+Belgium,7.004,19,2,Permanent,0,13,20,0.34,2024
+Netherlands,4.259,14,2,Permanent,0,15,19,0.3,2024
+Italy,5.793,11,2,Permanent,0,17,26,0.26,2024
+Azerbaijan,6.003,20,2,Street,0,19,26,0.11,2024
+Singapore,4.94,19,4,Street,0,26,30,0.41,2024
+United States,5.513,20,2,Permanent,1,15,26,0.24,2024
+Mexico,4.304,17,3,Permanent,0,10,22,0.22,2024
+Brazil,4.309,15,2,Permanent,1,18,24,0.45,2024
+Las Vegas,6.201,17,2,Street,0,7,17,0.05,2024
+Qatar,5.419,16,1,Permanent,1,18,26,0.05,2024
+Abu Dhabi,5.281,16,2,Permanent,0,17,26,0.03,2024
